@@ -1,0 +1,10 @@
+h1{
+	text-align: center;
+	margin: 20px;
+}
+
+.row{
+	background-color: skyblue;
+	margin-bottom: 6px;
+	border-bottom: 3px solid pink;
+}
